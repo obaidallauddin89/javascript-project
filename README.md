@@ -1,2 +1,2 @@
 # javascript-project
- some project domanstrate simple javascript
+ there are different 20 projects here
